@@ -3,6 +3,8 @@
 
 ## 判断后跳转对应的app下载
 
+![Pulsebit O2 App](http://viatomtech.com/wp-content/uploads/2016/05/cli_300px.png)
+
 - php
 
   ```php
@@ -67,8 +69,3 @@
   }
   })()
   ```
-
-  ​
-
-- viatom
-\ No newline at end of file
